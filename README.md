@@ -117,18 +117,14 @@ private fun setupWebView() {
 
 ### Test Case 1 – Application Launch
 **Expected Result:** Application launches successfully. The home screen and the menu are visible.
-![Test Case 1](screenshots/test_case_1.png)
+![Test Case 1](screenshots/experiment8_menu.png)
 
 ### Test Case 2 – WebView
 **Expected Result:** Selecting "Open Website" loads the webpage successfully inside the Android application using WebView.
-![Test Case 2](screenshots/test_case_2.png)
-
-### Test Case 3 – Student Details
-**Expected Result:** Selecting "About" displays the student's name and USN clearly.
-![Test Case 3](screenshots/test_case_3.png)
+![Test Case 2](screenshots/experiment8_webview.png)
 
 ## Output Screenshots
-![Output](screenshots/output.png)
+![Output](screenshots/experiment8_output.png)
 
 ## Result
 The experiment successfully implemented Android Menus and a WebView component in a single Android application. Menu selections navigated smoothly between the Home screen, the embedded WebView, and the About screen containing the student details.
